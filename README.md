@@ -15,7 +15,7 @@ Random Crime Generator is written in Python 3. It is an open source game license
 
 You can find the source code in the Github repository at: https://github.com/erickerr/RandomCrimeGenerator.
 
-You can read some of my writing about the game at my website: http://www.eric-kerr.com/arcade.html
+You can read some of my writing about the game at my website: http://www.eric-kerr.com/arcade/arcade.html
 
 Credits:
 
